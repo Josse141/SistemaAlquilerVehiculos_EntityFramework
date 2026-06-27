@@ -38,3 +38,24 @@ E:\.UAM\4 cuatrimestre\Programacion 3\Tareas\Proyecto\obj\Debug\SistemaA.821FB6F
 E:\.UAM\4 cuatrimestre\Programacion 3\Tareas\Proyecto\obj\Debug\SistemaAlquilerVehiculos.exe
 E:\.UAM\4 cuatrimestre\Programacion 3\Tareas\Proyecto\obj\Debug\SistemaAlquilerVehiculos.pdb
 E:\.UAM\4 cuatrimestre\Programacion 3\Tareas\Proyecto\obj\Debug\SistemaAlquilerVehiculos.Formularios.FrmAlquileres.resources
+C:\Users\josse\OneDrive\UAM\Progra 3\2026\Proyecto de Renta de Vehiculos\SistemaAlquilerVehiculos_EF_Persona1\SistemaAlquilerVehiculos_EntityFramework\bin\Debug\SistemaAlquilerVehiculos.exe.config
+C:\Users\josse\OneDrive\UAM\Progra 3\2026\Proyecto de Renta de Vehiculos\SistemaAlquilerVehiculos_EF_Persona1\SistemaAlquilerVehiculos_EntityFramework\bin\Debug\SistemaAlquilerVehiculos.exe
+C:\Users\josse\OneDrive\UAM\Progra 3\2026\Proyecto de Renta de Vehiculos\SistemaAlquilerVehiculos_EF_Persona1\SistemaAlquilerVehiculos_EntityFramework\bin\Debug\SistemaAlquilerVehiculos.pdb
+C:\Users\josse\OneDrive\UAM\Progra 3\2026\Proyecto de Renta de Vehiculos\SistemaAlquilerVehiculos_EF_Persona1\SistemaAlquilerVehiculos_EntityFramework\bin\Debug\EntityFramework.dll
+C:\Users\josse\OneDrive\UAM\Progra 3\2026\Proyecto de Renta de Vehiculos\SistemaAlquilerVehiculos_EF_Persona1\SistemaAlquilerVehiculos_EntityFramework\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\josse\OneDrive\UAM\Progra 3\2026\Proyecto de Renta de Vehiculos\SistemaAlquilerVehiculos_EF_Persona1\SistemaAlquilerVehiculos_EntityFramework\bin\Debug\EntityFramework.xml
+C:\Users\josse\OneDrive\UAM\Progra 3\2026\Proyecto de Renta de Vehiculos\SistemaAlquilerVehiculos_EF_Persona1\SistemaAlquilerVehiculos_EntityFramework\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\josse\OneDrive\UAM\Progra 3\2026\Proyecto de Renta de Vehiculos\SistemaAlquilerVehiculos_EF_Persona1\SistemaAlquilerVehiculos_EntityFramework\obj\Debug\SistemaAlquilerVehiculos.csproj.AssemblyReference.cache
+C:\Users\josse\OneDrive\UAM\Progra 3\2026\Proyecto de Renta de Vehiculos\SistemaAlquilerVehiculos_EF_Persona1\SistemaAlquilerVehiculos_EntityFramework\obj\Debug\SistemaAlquilerVehiculos.exe.config
+C:\Users\josse\OneDrive\UAM\Progra 3\2026\Proyecto de Renta de Vehiculos\SistemaAlquilerVehiculos_EF_Persona1\SistemaAlquilerVehiculos_EntityFramework\obj\Debug\SistemaAlquilerVehiculos.Formularios.FrmAlquileres.resources
+C:\Users\josse\OneDrive\UAM\Progra 3\2026\Proyecto de Renta de Vehiculos\SistemaAlquilerVehiculos_EF_Persona1\SistemaAlquilerVehiculos_EntityFramework\obj\Debug\SistemaAlquilerVehiculos.Formularios.FrmLogin.resources
+C:\Users\josse\OneDrive\UAM\Progra 3\2026\Proyecto de Renta de Vehiculos\SistemaAlquilerVehiculos_EF_Persona1\SistemaAlquilerVehiculos_EntityFramework\obj\Debug\SistemaAlquilerVehiculos.Formularios.FrmRegistroUsuario.resources
+C:\Users\josse\OneDrive\UAM\Progra 3\2026\Proyecto de Renta de Vehiculos\SistemaAlquilerVehiculos_EF_Persona1\SistemaAlquilerVehiculos_EntityFramework\obj\Debug\SistemaAlquilerVehiculos.Formularios.FrmMenuPrincipal.resources
+C:\Users\josse\OneDrive\UAM\Progra 3\2026\Proyecto de Renta de Vehiculos\SistemaAlquilerVehiculos_EF_Persona1\SistemaAlquilerVehiculos_EntityFramework\obj\Debug\SistemaAlquilerVehiculos.Formularios.FrmUsuarios.resources
+C:\Users\josse\OneDrive\UAM\Progra 3\2026\Proyecto de Renta de Vehiculos\SistemaAlquilerVehiculos_EF_Persona1\SistemaAlquilerVehiculos_EntityFramework\obj\Debug\SistemaAlquilerVehiculos.Formularios.FrmVehiculos.resources
+C:\Users\josse\OneDrive\UAM\Progra 3\2026\Proyecto de Renta de Vehiculos\SistemaAlquilerVehiculos_EF_Persona1\SistemaAlquilerVehiculos_EntityFramework\obj\Debug\SistemaAlquilerVehiculos.Properties.Resources.resources
+C:\Users\josse\OneDrive\UAM\Progra 3\2026\Proyecto de Renta de Vehiculos\SistemaAlquilerVehiculos_EF_Persona1\SistemaAlquilerVehiculos_EntityFramework\obj\Debug\SistemaAlquilerVehiculos.csproj.GenerateResource.cache
+C:\Users\josse\OneDrive\UAM\Progra 3\2026\Proyecto de Renta de Vehiculos\SistemaAlquilerVehiculos_EF_Persona1\SistemaAlquilerVehiculos_EntityFramework\obj\Debug\SistemaAlquilerVehiculos.csproj.CoreCompileInputs.cache
+C:\Users\josse\OneDrive\UAM\Progra 3\2026\Proyecto de Renta de Vehiculos\SistemaAlquilerVehiculos_EF_Persona1\SistemaAlquilerVehiculos_EntityFramework\obj\Debug\SistemaA.821FB6FE.Up2Date
+C:\Users\josse\OneDrive\UAM\Progra 3\2026\Proyecto de Renta de Vehiculos\SistemaAlquilerVehiculos_EF_Persona1\SistemaAlquilerVehiculos_EntityFramework\obj\Debug\SistemaAlquilerVehiculos.exe
+C:\Users\josse\OneDrive\UAM\Progra 3\2026\Proyecto de Renta de Vehiculos\SistemaAlquilerVehiculos_EF_Persona1\SistemaAlquilerVehiculos_EntityFramework\obj\Debug\SistemaAlquilerVehiculos.pdb

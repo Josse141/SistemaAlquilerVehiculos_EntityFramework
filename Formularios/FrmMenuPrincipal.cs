@@ -18,8 +18,10 @@ namespace SistemaAlquilerVehiculos.Formularios
             lblRol.Text = "Rol: " + SesionUsuario.Rol;
 
             bool esAdministrador = SesionUsuario.EsAdministrador();
+
             btnUsuarios.Enabled = esAdministrador;
             btnVehiculos.Enabled = esAdministrador;
+            btnAlquileres.Enabled = true;
             lblAccesoCliente.Visible = !esAdministrador;
         }
 
@@ -36,6 +38,14 @@ namespace SistemaAlquilerVehiculos.Formularios
             using (FrmVehiculos formularioVehiculos = new FrmVehiculos())
             {
                 formularioVehiculos.ShowDialog();
+            }
+        }
+
+        private void btnAlquileres_Click(object sender, EventArgs e)
+        {
+            using (FrmAlquileres formularioAlquileres = new FrmAlquileres())
+            {
+                formularioAlquileres.ShowDialog();
             }
         }
 

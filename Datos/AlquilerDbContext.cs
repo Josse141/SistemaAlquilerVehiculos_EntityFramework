@@ -15,6 +15,8 @@ namespace SistemaAlquilerVehiculos.Datos
         public DbSet<Usuario> Usuarios { get; set; }
         public DbSet<Vehiculo> Vehiculos { get; set; }
 
+        public DbSet<Alquiler> Alquileres { get; set; }
+
         protected override void OnModelCreating(DbModelBuilder modelBuilder)
         {
             // Define precisión para campos monetarios.

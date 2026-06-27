@@ -17,3 +17,24 @@ C:\Users\josse\OneDrive\UAM\Progra 3\2026\Proyecto de Renta de Vehiculos\Sistema
 C:\Users\josse\OneDrive\UAM\Progra 3\2026\Proyecto de Renta de Vehiculos\SistemaAlquilerVehiculos_EF_Persona1\SistemaAlquilerVehiculos_EF\obj\Debug\SistemaA.821FB6FE.Up2Date
 C:\Users\josse\OneDrive\UAM\Progra 3\2026\Proyecto de Renta de Vehiculos\SistemaAlquilerVehiculos_EF_Persona1\SistemaAlquilerVehiculos_EF\obj\Debug\SistemaAlquilerVehiculos.exe
 C:\Users\josse\OneDrive\UAM\Progra 3\2026\Proyecto de Renta de Vehiculos\SistemaAlquilerVehiculos_EF_Persona1\SistemaAlquilerVehiculos_EF\obj\Debug\SistemaAlquilerVehiculos.pdb
+E:\.UAM\4 cuatrimestre\Programacion 3\Tareas\Proyecto\bin\Debug\SistemaAlquilerVehiculos.exe.config
+E:\.UAM\4 cuatrimestre\Programacion 3\Tareas\Proyecto\bin\Debug\SistemaAlquilerVehiculos.exe
+E:\.UAM\4 cuatrimestre\Programacion 3\Tareas\Proyecto\bin\Debug\SistemaAlquilerVehiculos.pdb
+E:\.UAM\4 cuatrimestre\Programacion 3\Tareas\Proyecto\bin\Debug\EntityFramework.dll
+E:\.UAM\4 cuatrimestre\Programacion 3\Tareas\Proyecto\bin\Debug\EntityFramework.SqlServer.dll
+E:\.UAM\4 cuatrimestre\Programacion 3\Tareas\Proyecto\bin\Debug\EntityFramework.xml
+E:\.UAM\4 cuatrimestre\Programacion 3\Tareas\Proyecto\bin\Debug\EntityFramework.SqlServer.xml
+E:\.UAM\4 cuatrimestre\Programacion 3\Tareas\Proyecto\obj\Debug\SistemaAlquilerVehiculos.csproj.AssemblyReference.cache
+E:\.UAM\4 cuatrimestre\Programacion 3\Tareas\Proyecto\obj\Debug\SistemaAlquilerVehiculos.exe.config
+E:\.UAM\4 cuatrimestre\Programacion 3\Tareas\Proyecto\obj\Debug\SistemaAlquilerVehiculos.Formularios.FrmLogin.resources
+E:\.UAM\4 cuatrimestre\Programacion 3\Tareas\Proyecto\obj\Debug\SistemaAlquilerVehiculos.Formularios.FrmRegistroUsuario.resources
+E:\.UAM\4 cuatrimestre\Programacion 3\Tareas\Proyecto\obj\Debug\SistemaAlquilerVehiculos.Formularios.FrmMenuPrincipal.resources
+E:\.UAM\4 cuatrimestre\Programacion 3\Tareas\Proyecto\obj\Debug\SistemaAlquilerVehiculos.Formularios.FrmUsuarios.resources
+E:\.UAM\4 cuatrimestre\Programacion 3\Tareas\Proyecto\obj\Debug\SistemaAlquilerVehiculos.Formularios.FrmVehiculos.resources
+E:\.UAM\4 cuatrimestre\Programacion 3\Tareas\Proyecto\obj\Debug\SistemaAlquilerVehiculos.Properties.Resources.resources
+E:\.UAM\4 cuatrimestre\Programacion 3\Tareas\Proyecto\obj\Debug\SistemaAlquilerVehiculos.csproj.GenerateResource.cache
+E:\.UAM\4 cuatrimestre\Programacion 3\Tareas\Proyecto\obj\Debug\SistemaAlquilerVehiculos.csproj.CoreCompileInputs.cache
+E:\.UAM\4 cuatrimestre\Programacion 3\Tareas\Proyecto\obj\Debug\SistemaA.821FB6FE.Up2Date
+E:\.UAM\4 cuatrimestre\Programacion 3\Tareas\Proyecto\obj\Debug\SistemaAlquilerVehiculos.exe
+E:\.UAM\4 cuatrimestre\Programacion 3\Tareas\Proyecto\obj\Debug\SistemaAlquilerVehiculos.pdb
+E:\.UAM\4 cuatrimestre\Programacion 3\Tareas\Proyecto\obj\Debug\SistemaAlquilerVehiculos.Formularios.FrmAlquileres.resources
